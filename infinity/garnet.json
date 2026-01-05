@@ -1,1 +1,12 @@
-Nothing
+{
+        "response": [
+                {
+                        "filename": "Project_Infinity-X-3.6-garnet-05.01.2026-GAPPS-UNOFFICIAL.zip",
+                        "download": "",
+                        "timestamp": 1767644114,
+                        "md5": "de687ecb662c8b9627b9648ed4f8890b",
+                        "size": 2290280995,
+                        "version": "3.6"
+                }
+        ]
+}
