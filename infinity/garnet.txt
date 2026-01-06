@@ -1,1 +1,12 @@
-Teste Ota
+6.1.26
+ Base Infinity 3.6
+ SecurePatch December 25
+Changelog
+ Added New Dolby (Lunaris Version)
+ Update FW to 2.0.206
+ New Miui Camera Version
+ Fixed Camera Flickering in Poco Devices
+ OTA Enabled
+ KSU NEXT 3.0
+By Jotanh
+Bye
