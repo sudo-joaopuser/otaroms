@@ -1,0 +1,29 @@
+{
+    "response": [
+        {
+            "maintainer": "Jotanh",
+            "oem": "Redmi",
+            "device": "Redmi Note 13 Pro 5G",
+            "filename": "crDroidAndroid-16.0-20260108-garnet-v12.5.zip",
+            "download": "",
+            "timestamp": 1767838097,
+            "md5": "91a9edd19373a106d16a1d91efe52ecc",
+            "sha256": "b8753fbe79f9bd682932ab367c05ad29da3d5e3ece3891702e5161108d77726e",
+            "size": 1925755095,
+            "version": "12.5",
+            "buildtype": "Monthly",
+            "forum": "",
+            "gapps": "https://nikgapps.com/crdroid-official",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "https://t.me/joaodoximicustom",
+            "dt": "https://github.com/crdroidandroid/android_device_xiaomi_garnet/tree/16.0",
+            "common-dt": "",
+            "kernel": "https://github.com/crdroidandroid/android_xiaomi_kernel_garnet/tree/16.0"
+        }
+    ]
+}
+
