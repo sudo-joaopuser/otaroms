@@ -1,25 +1,23 @@
 {
   "response": [
     {
-      "maintainer": "Jotanh",
+      "maintainer": "Jotanh #TeamXIMI",
       "currently_maintained": true,
-      "oem": "Motorola",
-      "device": "G200",
-      "filename": "EvolutionX-16.0-20260115-xpeng-11.6-Unofficial.zip",
-      "download": "",
-      "timestamp": 1768467660,
-      "md5": "48e3e1cbfa7ca4aed0afd3fd3539131c",
-      "sha256": "f3d2e7b1ff543524bc26223fde1098c838a9d817502cb9114e83d99ca91520d7",
-      "size": 2717626612,
+      "oem": "",
+      "device": "",
+      "filename": "EvolutionX-16.0-20260128-xpeng-11.6-Unofficial.zip",
+      "download": "https://drive.serverhive.in/drive/MnYCZtLNDdhQZL6W4sWvNVY3/xpeng/2026-01-28/EvolutionX-16.0-20260128-xpeng-11.6-Unofficial.zip",
+      "timestamp": 1769573482,
+      "md5": "26a9e240e18d866defd07fd48e14c625",
+      "sha256": "3956073aa5d4d943a9dfa01156c003ca38e7c488aa10131108cf4d83f056ea1d",
+      "size": 2702464561,
       "version": "11.6",
       "buildtype": "userdebug",
       "forum": "",
       "firmware": "",
-      "paypal": "https://ko-fi/joaodoximi",
-      "github": "https://github.com/sudo-joaopuser",
-      "initial_installation_images": [
-        "recovery"
-      ],
+      "paypal": "",
+      "github": "",
+      "initial_installation_images": [],
       "extra_images": []
     }
   ]
