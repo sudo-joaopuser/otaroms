@@ -1,12 +1,12 @@
 {
         "response": [
                 {
-                        "filename": "Project_Infinity-X-3.6-garnet-05.01.2026-GAPPS-UNOFFICIAL.zip",
-                        "download": "",
-                        "timestamp": 1767644114,
-                        "md5": "de687ecb662c8b9627b9648ed4f8890b",
-                        "size": 2290280995,
-                        "version": "3.6"
+                        "filename": "Project_Infinity-X-3.7-TeamXimi-garnet-10.02.2026-GAPPS-UNOFFICIAL.zip",
+                        "download": "https://sourceforge.net/projects/joaodoximiroms/files/Garnet/InfinityX/10.02.2026/Project_Infinity-X-3.7-TeamXimi-garnet-10.02.2026-GAPPS-UNOFFICIAL.zip/download",
+                        "timestamp": 1770720631,
+                        "md5": "58d4249b8904545799eb135fd6715cee",
+                        "size": 2269363049,
+                        "version": "3.7"
                 }
         ]
 }
