@@ -1,0 +1,12 @@
+Device: Redmi Note 13 Pro 5G // Poco X6 5G
+Build Status: Unofficial Community
+
+---- 23/03/2026 ----
+ * Device
+Initial Version
+QPR2 Release
+
+ * Kernel
+Kernel Zen-Itsu LTO 5.10.251
+KSUN + SUSFS 2.0.0 (Brene SUSFS v0.0.27)
+---- Thanks for Reading <3 ----
